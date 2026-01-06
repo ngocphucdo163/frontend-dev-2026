@@ -7,7 +7,7 @@ function Header({ title }) {
 }
 
 function HomePage() {
-  const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
+  const names = ['Tennis', 'Badminton', 'Margaret Hamilton'];
 
   const [likes, setLikes] = useState(0);
 
